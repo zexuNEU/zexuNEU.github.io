@@ -1,10 +1,10 @@
 # Site settings
-title: BY Blog
-SEOTitle: 柏荧的博客 | BY Blog
+title: 　ZX Blog
+SEOTitle: 泽旭的博客 | ZX Blog
 header-img: img/post-bg-desk.jpg
 email: qiubaiying@gmail.com
 description: "Every failure is leading towards success."
-keyword: "BY, BY Blog, 柏荧的博客, qiubaiying, 邱柏荧, iOS, Apple, iPhone"
+keyword: "ZX, ZX Blog,  泽旭的博客, zexu, 李泽旭, python, bioinformatics, R, CRISPR"
 url: "https://zexuneu.github.io"          # your host, for absolute URL
 baseurl: ""      # for example, '/blog' if your blog hosted on 'host/blog'
 github_repo: "https://github.com/zexuneu/zexuneu.github.io.git" # you code repository
@@ -18,12 +18,12 @@ sidebar-avatar: /img/about-BY-gentle.jpg      # use absolute URL, seeing it's us
 
 # SNS settings
 RSS: false
-# weibo_username:     qiubaiying
-zhihu_username:     qiubaiying
-github_username:    qiubaiying
-facebook_username:  baiying.qiu.7
-jianshu_username:   e71990ada2fd
-#twitter_username:   qiubaiying
+weibo_username:     zexuli
+zhihu_username:     zexuli
+github_username:    zexuneu
+facebook_username:  zexuli
+jianshu_username:   zexuli
+twitter_username:   zexuli
 
 
 
@@ -64,9 +64,9 @@ gitalk:
   enable: true    #是否开启Gitalk评论
   clientID: f2c84e7629bb1446c1a4                            #生成的clientID
   clientSecret: ca6d6139d1e1b8c43f8b2e19492ddcac8b322d0d    #生成的clientSecret
-  repo: qiubaiying.github.io    #仓库名称
-  owner: qiubaiying    #github用户名
-  admin: qiubaiying
+  repo: zexuneu.github.io    #仓库名称
+  owner: zexuneu    #github用户名
+  admin: zexuneu
   distractionFreeMode: true #是否启用类似FB的阴影遮罩
 
 
@@ -99,16 +99,16 @@ service-worker: true
 # Friends
 friends: [
     {
-        title: "WY",
-        href: "http://zhengwuyang.com"
+        title: "cbioportal",
+        href: "http://www.cbioportal.org/"
     },{
-        title: "简书·BY",
-        href: "http://www.jianshu.com/u/e71990ada2fd"
+        title: "firebrowse",
+        href: "http://firebrowse.org/"
     },{
-        title: "Apple",
-        href: "https://apple.com"
+        title: "sci-hub",
+        href: "http://sci-hub.tw/"
     },{
-        title: "Apple Developer",
-        href: "https://developer.apple.com/"
+        title: "TCGA",
+        href: "https://portal.gdc.cancer.gov/"
     }
 ]
